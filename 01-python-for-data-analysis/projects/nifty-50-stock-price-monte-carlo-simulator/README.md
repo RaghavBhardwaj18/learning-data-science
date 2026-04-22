@@ -42,6 +42,10 @@ It contains historical price data used to compute returns and simulate future pr
 
 ## Results
 
+### 📊 Simulation of Future Price Paths
+![Monte Carlo Simulation](./assets/nifty50_simulation.png)
+
+
 ### 📈 Key Metrics
 
 * **Mean Expected Price (1 Year):** ₹27,892.73
