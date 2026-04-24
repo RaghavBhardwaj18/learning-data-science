@@ -91,9 +91,12 @@ The goal is to build **strong fundamentals**, apply them to **real-world dataset
 
 ### 🛒 Retail Store Sales Analysis
 
-* Conducted end-to-end exploratory data analysis on retail sales data
-* Handled missing values and performed data preprocessing
-* Extracted business insights related to sales trends and customer behavior
+* Conducted end-to-end exploratory data analysis on a retail sales dataset  
+* Handled missing values and performed structured data preprocessing  
+* Extracted insights related to sales trends and customer behavior  
+
+🔗 **Project Repository:**  
+https://github.com/RaghavBhardwaj18/retail-store-sales-analysis
 
 ---
 
