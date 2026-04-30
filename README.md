@@ -111,7 +111,7 @@ https://github.com/RaghavBhardwaj18/retail-store-sales-analysis
 * Derived insights on orders, customers, and seller performance
 
 🔗 **Project Repository:**  
-https://github.com/RaghavBhardwaj18/olist-brazilian-ecommerce-analysis
+https://github.com/RaghavBhardwaj18/olist-brazillian-ecommerce-data-wrangling
 
 ---
 
