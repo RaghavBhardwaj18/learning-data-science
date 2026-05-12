@@ -54,7 +54,7 @@ The goal is to build **strong fundamentals**, apply them to **real-world dataset
 | Week 7 | Data Wrangling | Merging, Reshaping | Olist Brazilian E-commerce Analysis | ✅ |
 | Week 8 | Data Visualization | Matplotlib, Seaborn | Olist Brazilian E-commerce Visualization | ✅ |
 | Week 9 | Data Aggregation & Group Operations | GroupBy, Transform, Apply | — | ✅ |
-| Week 10 | Time Series | DateTime, Trends, Seasonality | — | 🔄 |
+| Week 10 | Time Series | DateTime, Trends, Seasonality | — | ✅ |
 
 ---
 
@@ -71,7 +71,7 @@ The goal is to build **strong fundamentals**, apply them to **real-world dataset
 | Day 43–49 | Data Wrangling | Merge, join, reshape, Olist E-commerce Analysis |
 | Day 50–56 | Data Visualization | Matplotlib, Seaborn |
 | Day 56–63 | Data Aggregation & Group Operations | GroupBy, Transform, Apply |
-| Day 64–Present | Time Series | DateTime, Trends, Seasonality (ongoing) |
+| Day 64–70 | Time Series | DateTime, Trends, Seasonality |
 
 ---
 
