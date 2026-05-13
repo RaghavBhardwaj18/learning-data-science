@@ -21,8 +21,9 @@ The goal is to build **strong fundamentals**, apply them to **real-world dataset
 ## 🛠️ Tech Stack
 
 * **Languages:** Python
-* **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
-* **Upcoming:** Scikit-learn, TensorFlow, PyTorch, LangChain
+* **Libraries & Tools:** NumPy, Pandas, Matplotlib, Seaborn
+* **Currently Exploring:** Scikit-learn, Machine Learning Workflows
+* **Upcoming:** TensorFlow, PyTorch, LangChain
 
 ---
 
@@ -41,9 +42,9 @@ The goal is to build **strong fundamentals**, apply them to **real-world dataset
 
 ---
 
-## 📊 Progress Tracker
+## 📊 Learning Progress
 
-### ✅ Weekly Progress
+### ✅ Data Analysis Track
 
 | Week | Focus Area | Key Topics | Project | Status |
 |------|-----------|-----------|---------|--------|
@@ -51,31 +52,33 @@ The goal is to build **strong fundamentals**, apply them to **real-world dataset
 | Week 3–4 | Pandas | DataFrames, Filtering, GroupBy | Student Performance Dashboard | ✅ |
 | Week 5 | Data Loading & Storage | CSV, Excel, JSON Handling | — | ✅ |
 | Week 6 | Data Cleaning & Preparation | Missing Values, Transformation | Retail Store Sales Analysis | ✅ |
-| Week 7 | Data Wrangling | Merging, Reshaping | Olist Brazilian E-commerce Analysis | ✅ |
-| Week 8 | Data Visualization | Matplotlib, Seaborn | Olist Brazilian E-commerce Visualization | ✅ |
+| Week 7 | Data Wrangling | Merging, Reshaping | Olist Brazilian E-commerce Data Wrangling | ✅ |
+| Week 8 | Data Visualization | Matplotlib, Seaborn | Olist E-commerce Visualization Dashboard | ✅ |
 | Week 9 | Data Aggregation & Group Operations | GroupBy, Transform, Apply | — | ✅ |
 | Week 10 | Time Series | DateTime, Trends, Seasonality | — | ✅ |
 
 ---
 
-### 📅 Daily Progress Log
+### 🤖 Machine Learning Track *(Currently Ongoing)*
 
-| Day Range | Focus Area | Work Done |
-|----------|-----------|----------|
-| Day 1–7 | NumPy Basics | Arrays, indexing, broadcasting |
-| Day 8–14 | NumPy Advanced | Vectorization, operations, NIFTY 50 Stock Price Simulator |
-| Day 15–21 | Pandas Basics | DataFrames, filtering, selection |
-| Day 22–28 | Pandas Advanced | GroupBy, aggregation, Student Performance Dashboard |
-| Day 29–35 | Data Loading & Storage | CSV, Excel, JSON handling, large file processing |
-| Day 36–42 | Data Cleaning & Preparation | Missing values, transformations, Retail Store Sales Analysis |
-| Day 43–49 | Data Wrangling | Merge, join, reshape, Olist E-commerce Analysis |
-| Day 50–56 | Data Visualization | Matplotlib, Seaborn |
-| Day 56–63 | Data Aggregation & Group Operations | GroupBy, Transform, Apply |
-| Day 64–70 | Time Series | DateTime, Trends, Seasonality |
+| Chapter / Phase | Focus Area | Key Topics | Project | Status |
+|----------------|-----------|------------|---------|--------|
+| Chapter 1 | Introduction to Machine Learning | ML fundamentals, types of ML systems, workflows | — | 🔄 |
+| Chapter 2 | End-to-End ML Project | Data preprocessing, pipelines, model training | California Housing Price Prediction | ⏳ |
+| Chapter 3 | Classification | Classification models, evaluation metrics | Customer Churn Prediction | ⏳ |
+| Chapter 4 | Training Models | Linear regression, gradient descent, regularization | House Price Prediction | ⏳ |
+| Chapter 5 | Support Vector Machines | Linear & nonlinear SVMs, kernels | Spam Email Classification | ⏳ |
+| Chapter 6 | Decision Trees | Tree-based models, visualization, tuning | Loan Approval Prediction | ⏳ |
+| Chapter 7 | Ensemble Learning | Random Forests, Boosting, Bagging | Credit Risk Prediction | ⏳ |
+| Chapter 8 | Dimensionality Reduction | PCA, manifold learning | Customer Segmentation Analysis | ⏳ |
+| Chapter 9 | Unsupervised Learning | Clustering, anomaly detection | Mall Customer Segmentation | ⏳ |
+| Chapter 10 | Neural Networks with Keras | Deep learning fundamentals | Handwritten Digit Recognition | ⏳ |
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📊 Data Analysis Projects
 
 ### 📈 NIFTY 50 Stock Price Monte Carlo Simulator (NumPy-based)
 
@@ -115,11 +118,33 @@ https://github.com/RaghavBhardwaj18/olist-brazillian-ecommerce-data-wrangling
 
 ---
 
+### 📊 Olist Brazilian E-commerce Visualization Dashboard
+
+* Built an insight-driven visualization dashboard using the Olist Brazilian e-commerce dataset  
+* Analyzed revenue trends, top-performing product categories, and pricing behavior  
+* Created visual analytics using Matplotlib and Seaborn to derive business insights  
+
+🔗 **Project Repository:**  
+https://github.com/RaghavBhardwaj18/olist-brazilian-ecommerce-data-visualization
+
+---
+
 ## 📈 Key Learnings
 
 * Strong understanding of data manipulation using Pandas
 * Data visualization for storytelling
 * Real-world dataset handling and cleaning techniques
+
+---
+
+### 🤖 Machine Learning Projects *(Upcoming)*
+
+Projects from:
+- Regression
+- Classification
+- Ensemble Learning
+- Neural Networks
+- End-to-End ML Pipelines
 
 ---
 
@@ -134,10 +159,11 @@ https://github.com/RaghavBhardwaj18/olist-brazillian-ecommerce-data-wrangling
 
 ## 📌 Upcoming Goals
 
-* Complete Python for Data Analysis (Wes McKinney)
-* Start Machine Learning with Scikit-learn
-* Build end-to-end ML projects
-* Transition into Generative AI & Agentic workflows
+* Build strong machine learning foundations using Scikit-learn  
+* Develop end-to-end ML workflows including preprocessing, training, and evaluation  
+* Explore deep learning architectures using TensorFlow and Keras  
+* Work on Generative AI applications involving LLMs and vector databases  
+* Transition towards Agentic AI systems and autonomous AI workflows  
 
 ---
 
