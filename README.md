@@ -64,7 +64,7 @@ The goal is to build **strong fundamentals**, apply them to **real-world dataset
 | Chapter / Phase | Focus Area | Key Topics | Project | Status |
 |----------------|-----------|------------|---------|--------|
 | Chapter 1 | Introduction to Machine Learning | ML fundamentals, types of ML systems, workflows | — | 🔄 |
-| Chapter 2 | End-to-End ML Project | Data preprocessing, pipelines, model training | California Housing Price Prediction | ⏳ |
+| Chapter 2 | End-to-End ML Project | Data preprocessing, pipelines, model training | California Housing Price Prediction, Food Delivery Time Prediction | ⏳ |
 | Chapter 3 | Classification | Classification models, evaluation metrics | Customer Churn Prediction | ⏳ |
 | Chapter 4 | Training Models | Linear regression, gradient descent, regularization | House Price Prediction | ⏳ |
 | Chapter 5 | Support Vector Machines | Linear & nonlinear SVMs, kernels | Spam Email Classification | ⏳ |
